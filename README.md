@@ -1,2 +1,2 @@
 # Datacademy Project | Largest US Retailers
-[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/project/Datacademy-Project-or-Largest-US-Retailers-p3PJVGavQX-8PpaewzlIdA/%2Fdatacademy_project-largest_retailers%2Fdatacademy_project_retails.ipynb)
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/@iofabela/Datacademy-Project-or-Largest-US-Retailers-p3PJVGavQX-8PpaewzlIdA)
